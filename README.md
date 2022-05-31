@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhangyang12886
-- 👀 I’m interested in Go, Taro
+- 👀 I’m interested in Go, Taro, React, Antd
 - 🌱 I’m currently learning TARO, React
 - 📫 How to reach me ...
 
